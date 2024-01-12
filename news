@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>News</title>
+  <link rel="stylesheet" href="blog-styles.css">
+</head>
+<body>
+  <header>
+    <!-- Navigation or header content -->
+  </header>
+  <section>
+  <center><h1>UPDATING NEWS ON HOLLYWOOD MOVIES</h1></center>
+  <main class="movie-news">
+    <article class="movie-news">
+      <h2>Jonathan Majors to Andrew Garfield: Why these stars were FIRED from Marvel movies</h2>
+      <p class="post-meta">Posted on December, 2023</p>
+      <img src="https://static.toiimg.com/thumb/106113181.cms?width=680&height=512&imgsize=96130" alt="">
+      <p>
+        Jonathan Majors' conviction for assaulting and harassing his ex-girlfriend, Grace Jabbari, prompted Marvel Studios to drop him from his role as the supervillain Kang, in its upcoming superhero films. Majors' is not the first MCU star to face the axe for his controversies. From director James Gunn to Spider-Man star Andrew Garfield, here's a list of celebs who were fired from Marvel films for reasons ranging from legal battles to controversial social media comments. there were no reports or credible sources indicating that Jonathan Majors or Andrew Garfield were fired from Marvel movies. However, it's essential to note that information about the entertainment industry can change rapidly, and new developments may have occurred since then.</p>
+
+        <p>Jonathan Majors is known for his role as Kang the Conqueror in the Marvel Cinematic Universe (MCU), making his debut in the Disney+ series "Loki." Andrew Garfield, on the other hand, played the role of Spider-Man in Sony's "The Amazing Spider-Man" series before being replaced by Tom Holland in the MCU's portrayal of the character.</p>
+        
+        <p>If there have been any recent developments or changes in the status of these actors in the Marvel universe, I recommend checking the latest news sources or official statements from Marvel Studios for the most accurate and up-to-date information. Keep in mind that rumors and speculation can sometimes be inaccurate or misleading until confirmed by reliable sources.</p>
+    </p>
+      <a href="https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jonathan-majors-to-andrew-garfield-why-these-stars-were-fired-from-marvel-movies/photostory/106112788.cms?picid=106113177" class="read-more">Read More</a>
+    </article>
+
+    <article class="movie-news">
+      <h2>Top 10 movies to watch</h2>
+      <p class="post-meta">Posted on november 28, 2023</p>
+      <img src="https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2023/12/11121745/LeavetheWorldBehind_Article.jpg" alt="Top best movies">
+      <p>
+        Discover the top, most popular movies available now! Across theaters, streaming, and on-demand, these are the movies Rotten Tomatoes users are checking out at this very moment, including Wonka, Leave the World Behind, The Boy and the Heron (see Best Anime movies ranked), The Hunger Games: The Ballad of Songbirds and Snakes, Wish (see Disney animated movies ranked) and Napoleon from director Ridley Scottt.Check back for latest updates to the charts, and also take a look at the most popular TV shows out right now!)
+      </p>
+      <a href="https://editorial.rottentomatoes.com/guide/popular-movies/" class="read-more">Read More</a> 
+    </article>
+
+</article>
+
+<article class="movie-news">
+  <h2>Top 10 old movie recommendations</h2>
+  <p class="post-meta">Posted on january 28, 2023</p>
+  <img src="https://media.vanityfair.com/photos/5c659b8ad950fb48c24e1e68/master/pass/love-affair-valentine's-movies-to-stream.jpg" alt="Top movie recommentations">
+  <p>
+    Discover the top, most popular old movies available now! Across theaters, streaming.
+  </p>
+  <p>The Shawshank Redemption (1994):
+    Directed by Frank Darabont, this classic drama tells the story of a man's journey through the prison system, emphasizing hope, friendship, and redemption.</p>
+    
+    <p>The Godfather (1972):
+    Directed by Francis Ford Coppola, this iconic crime film explores the intricacies of the Corleone family and is widely regarded as one of the greatest movies ever made.</p>
+    
+    <p>Inception (2010):
+    Directed by Christopher Nolan, "Inception" is a mind-bending science fiction heist thriller that delves into the world of dreams, featuring a brilliant ensemble cast.</p>
+    
+    <p>Pulp Fiction (1994):
+    Directed by Quentin Tarantino, this non-linear narrative weaves together multiple stories, creating an unforgettable and influential masterpiece in the crime genre.</p>
+    
+    <p>Schindler's List (1993):
+    Directed by Steven Spielberg, this powerful film is based on the true story of Oskar Schindler, a German businessman who saved the lives of more than a thousand Jewish refugees during the Holocaust.</p>
+    
+    <p>The Dark Knight (2008):
+    Also directed by Christopher Nolan, this superhero film is known for Heath Ledger's iconic performance as the Joker and is considered a benchmark in the genre.</p>
+    
+    <p>Forrest Gump (1994):
+    Directed by Robert Zemeckis, this heartwarming film follows the life of Forrest Gump, played by Tom Hanks, as he unwittingly becomes part of major historical events.</p>
+    
+    <p>The Matrix (1999):
+    Directed by the Wachowskis, "The Matrix" is a groundbreaking science fiction film known for its revolutionary special effects and philosophical themes.</p>
+    
+    <p>Eternal Sunshine of the Spotless Mind (2004):
+    Directed by Michel Gondry, this unique romantic sci-fi film explores the complexities of relationships and memory erasure, starring Jim Carrey and Kate Winslet.</p>
+    
+   <p>Spirited Away (2001):
+    Directed by Hayao Miyazaki, this animated masterpiece from Studio Ghibli tells the enchanting and magical story of a young girl navigating a mysterious and fantastical world.</p>
+  <a href="https://www.harpersbazaar.com/culture/film-tv/g10201500/best-classic-movies/" class="read-more">Read More</a> 
+</article>
+
+</body>
+</html>
