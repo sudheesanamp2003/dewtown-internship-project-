@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Movie Booking Form</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color:darkcyan;
+      background-size: cover;
+    }
+
+    form {
+      max-width: 400px;
+      margin: 20px auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      box-shadow: 10px 10px;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+    }
+
+    select, input {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 16px;
+      box-sizing: border-box;
+    }
+
+    button {
+      background-color: #007BFF;
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <form action="#" method="post">
+    <h2>Movie Booking Form</h2>
+
+    <label for="movie">Select Movie:</label>
+    <select id="movie" name="movie" required>
+      <option value="fastx">fastx</option>
+      <option value="Ruthran">Ruthran</option>
+      <option value="devil 2023">devil 2023</option>
+      <option value="vikram">vikram</option>
+      <option value="Avengers:endgame">Avengers:endgame</option>
+    </select>
+
+    <label for="date">Select Date:</label>
+    <input type="date" id="date" name="date" required>
+
+    <label for="time">Select Time:</label>
+    <input type="time" id="time" name="time" required>
+
+    <label for="tickets">Number of Tickets:</label>
+    <input type="number" id="tickets" name="tickets" min="1" required>
+
+    <body> 
+    
+        <a href="C:\Users\happy\OneDrive\Pictures\movie booking\theatre.html">  
+         <button type="button">Book now</button>
+        </a>
+       
+      </body> 
+  </form>
+</body>
+</html>
